@@ -1,0 +1,14 @@
+{
+  "name": "stylelint-value-validation",
+  "version": "1.0.0",
+  "description": "stylelint plugin to validate css values",
+  "main": "index.js",
+  "author": "Paul Diaz",
+  "license": "MIT",
+  "dependencies": {
+    "stylelint": "^7.12.0"
+  },
+  "scripts": {
+	"test": "stylelint tests/test.css"
+  }
+}

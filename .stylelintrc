@@ -1,0 +1,8 @@
+{
+    "rules": {
+        "pdd/valid-value": true
+    },
+    "plugins": [
+        "./index.js"
+    ]
+}
